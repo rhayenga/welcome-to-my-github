@@ -1,13 +1,13 @@
 # Hi, I'm Rowan Hayenga and welcome to my GitHub profile.
 
-CSE & Finance student at the University of Michigan  
+CSE & Math student at the University of Michigan  
 Interested in quantitative finance, software development, and entrepreneurship.   
 Passionate about solving problems at the intersection of technology, math, and finacial markets.
 
 ---
 
 ## Skills 
-- **Programming:** Python(learning), C++(learning), Java
+- **Programming:** Python(learning), C++(learning), Javascript
 - **Math & Analytics:** Probability, Statistics, Financial Modeling, Risk Analysis, Mathematics  
 
 ---
