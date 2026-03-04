@@ -7,20 +7,22 @@ Passionate about solving problems at the intersection of technology, math, and f
 ---
 
 ## Skills 
-- **Programming:** Python(learning), C++(learning), Javascript
-- **Math & Analytics:** Probability, Statistics, Financial Modeling, Risk Analysis, Mathematics  
+- **Programming:** Python, C++, C Javascript
+- **Math:** Probability Theory, Statistics, Combinatorics, Calculus, Discrete Mathematics, Micro & Macro Economics
 
 ---
 
 ## Current Projects  
 - Monte Carlo simulations for option pricing  
-
+- Cross-Market Arbitrage
 ---
 
 ## What I'm Learning  
 - Advanced probability & statistics  
 - Programming Languages  
-- Financial risk modeling 
+- Financial theory
+- Backtesting
+- Risk modeling 
 
 ---
 
