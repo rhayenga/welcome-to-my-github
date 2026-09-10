@@ -13,16 +13,15 @@ Passionate about solving problems at the intersection of technology, math, and f
 ---
 
 ## Current Projects  
-- Monte Carlo simulations for option pricing  
+- Monte Carlo simulations
 - Cross-Market Arbitrage
+- ML game engine
 ---
 
 ## What I'm Learning  
-- Advanced probability & statistics  
-- Programming Languages  
-- Financial theory
-- Backtesting
-- Risk modeling 
+- Probability Theory & statistics  
+- Programming
+- Machine Learning
 
 ---
 
